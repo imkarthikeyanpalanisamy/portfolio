@@ -1,5 +1,4 @@
 *{
-/* background-color:aqua ; */
 margin: 0;
 padding: 0;
 }
@@ -11,7 +10,6 @@ body{
     background-color: aquamarine;
 }
 header{
-    /* background: url("background image.png" ); */
     height:625px;
     background-size: cover;
     background-position:center;
@@ -21,8 +19,9 @@ header{
 .nav-area{
     float:right;
     list-style: none;
-    margin-top: 410px;
-    padding: 20px;
+    margin-top:398px;
+    padding-top:23px;
+    padding-bottom:38px;
     background-color: rgb(36, 35, 35);
 }
 .nav-area li{
@@ -48,8 +47,7 @@ header{
 }
 footer{
     text-align:center;
-    margin-top:4200px;
-    /* margin-left: -50px; */
+    margin-top:4500px;
     /* position: fixed;  */
     left: 0;
     bottom: 0;
@@ -57,7 +55,6 @@ footer{
     right: 0;
     width: 100%;
     height:50px;
-    /* padding-right:50px; */
     background-color: rgb(36, 35, 35);
     color: white;
     display: flex;
@@ -79,17 +76,17 @@ footer{
 }
  .welcome-text p{
     text-align: justify;
-    font-family:'Times New Roman', Times, serif;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-weight:lighter;
     color:rgb(15, 15, 15) ;
 } 
 
 h1{
   padding-top: 150px;
-  background: url("background image.png" ); 
+  background: url("background image.png"); 
   width: 100%;
   font-size: 50px;
-margin: auto;
+  margin: auto;
   color:rgb(19, 233, 222);
 }
 .button{
@@ -97,9 +94,10 @@ margin: auto;
 }
 
 h3{
-    margin: -20px;
+    margin:-30px;
     background-color: rgb(36, 35, 35);
-    padding: 35px;
+    margin-right:20px;
+    padding:40px;
     color: white;
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
@@ -107,8 +105,7 @@ h3{
 button{
     width:150px;
     height:40px;
-    /* background-color:; */
-    border:1px solid white;
+    border:2px solid white;
     border-radius:5px ;
     font-size: 20px;
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
@@ -131,7 +128,10 @@ button{
 
 .skills{
     text-align:center;
-    font-family: 'Times New Roman', Times, serif;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.Internshipexperience{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 .download{
     text-align: center;
@@ -158,6 +158,7 @@ img{
 }
 .address{
     text-align: center;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 .socialmediaicons{
     display:flex;
@@ -166,16 +167,8 @@ img{
     text-indent: 50px;
     cursor: pointer;
 }
-/* .top{
-    text-align: right;  
-    background-color: rgb(36, 35, 35);
-}
-.top a{
-    text-decoration: none;
-    color: white;
-} */
 .up{
-     border:1px solid white;
+     border:2px solid white;
      background-color: rgb(36, 35, 35);
 }
 .up a {
@@ -184,7 +177,7 @@ img{
 }
 
 .down{
-    border:1px solid white;
+    border:2px solid white;
     background-color: rgb(36, 35, 35);
 }
 .down a{
