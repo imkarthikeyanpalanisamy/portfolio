@@ -1,224 +1,191 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <meta char="UTF-8">
-    <link rel="icon" href="./My image.jpeg">
-    <meta name="view port" content="witdh=widhth-space, initial value=1.0">
-    <meta name="description"
-        content="Karthikeyan Palanisamy: I'm a person who always passionate to work with digital marketing & Information technology.">
-    <meta name="author" content="Karthikeyan Palanisamy">
-    <title>portfolio</title>
-    <link rel="stylesheet" type="text/css" href="style-portfolio.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-</head>
-<body>
-<header>
-    <div class="button">
-        <h1 id="top">Hello, I'm Karthikeyan Palanisamy</h1><br><br>
-        <button class="button">
-            <a href="#About"> See More</a>
-        </button>
-        <br><br><br><br><br><br><br><br><br>
-    </div>
-        <div  class="nav-area" class=w3-top>
-            <ul>
-                <p class="name">KARTHIKEYAN PALANISAMY</p>
-                <li><a href="#About">About</a></li>
-                <li><a href=#Skills>Skills</a></li>
-                <li><a href=#Resume>Resume</a></li>
-                <li><a href=#Contact> Contact</a></li>
-                <button class="down"><a href="#bottom">Go to bottom</a></button><br>
-            </ul>
-        </div>
-<div class="welcome-text">
-            <br>
-            <br>
-            <br><br>
-            <!--About page-->
-            <h2 id="About"><u>About Me</u></h2>
-            <br><br>
-            <div class="logo">
-                <img src="Web image.png" alt="logo">
-            </div>
-            <br>
-            <p>
-                I'm Karthikeyan Palanisamy, currently pursuing a bachelor of engineering in the stream of mechanical
-                engineering. I am very much interested in digital marketing and I desire to start my career in the
-                digital marketing field. I aim to deliver better results to the company, at the same time to develop my
-                growth. I started my learning about digital marketing and its techniques, in my learning experience, I
-                known a few major techniques like SEO, SMM, SMO, SEM, Web Analytics-Google analytics, and Google Search
-                Console. I have a few internship experiences also in digital marketing/advertising, marketing & sales,
-                market research, and social media marketing. I was performed various digital marketing campaigns during
-                my internship period and I contributed an important role in generating traffic and engagements to our
-                clients by digital marketing techniques. Also, I have a few more additional skills like the quick
-                capability of understanding the work, communicating with others effectively, team leading, good team
-                player, punctual and problem-solving and I am very much interested in implementing my knowledge & skills
-                into work!
-                <br><br><br>
-            </p>
-            <br>
-            <br>
-            <br>
-            <!--Skills page-->
-            <div class="skills">
-                <h2 id ="Skills"><u><b>Skills</b></u></h2>
-                <br><br>
-                 <p>
-                 <ul type="square" >
-                     <li>Search engine optimization (SEO)</li>
-                     <progress value="75" max="100" style="height:50px;width:50%" >25%</progress>
-                     <br>
-                     <br>
-                     <li>Search engine marketing (SEM)</li>
-                     <progress value="70" max="100"style="height:50px;width:50%" ></progress>
-                     <br>
-                     <br>
-                     <li>Social media marketing (SMM)</li>
-                     <progress value="65" max="100"style="height:50px;width:50%" ></progress>
-                     <br>
-                     <br>
-                     <li>Social media optimization (SMO)</li>
-                     <progress value="60" max="100"style="height:50px;width:50%" ></progress>
-                     <br>
-                     <br>
-                     <li>Web designing(wordpress)<br>
-                     <progress value="80" max="100"style="height:50px;width:50%" ></progress>
-                     <br>
-                     <br>
-                     <li> Punctual</li>
-                     <progress value="99" max="100"style="height:50px;width:50%" ></progress>
-                     <br>
-                     <br>
-                     <li>Good team player & Good team leader</li>
-                     <progress value="90" max="100"style="height:50px;width:50%" ></progress><br>
-                     <br>
-                     <br>
-                     <li>Technical skills (HTML5,CSS3,JS,C,Python and SQL)</li>
-                     <progress value="70" max="100"style="height:50px;width:50%" ></progress>
-                 </ul>
-                 </p>
-             </div>
-        <br>
-        <br>
-        <br>
-         <!--Resume page-->
-        <h2 id ="Resume"><u><b>Resume</b></u></h2>
-                <br><br>
-        <div class="download">
-            <button class="btn">
-                <a href="Karthikeyan-Palanisamy-Resume- Profile-CV.pdf" class="fa fa-download">Download Resume</a><br>
-            </button>
-        </div>
-        <br><br><br>
-            <!--Internship experience page-->
-        <div class="Internshipexperience">
-            <p>
-            <h2><u>Internship Experience</u></h2>
-            <br><br>
-            <h3><b><i>1) Digital Marketing Internship
-                        (07-Apr-2021 to 07-nov-2021)</i></b></h3>
-            <br>
-            <br>
-            ✓ <b>Company name:</b> drdad.in<br>
-            ✓ <b>Designation:</b> Digital Marketing Intern<br>
-            <br>
-            <b>Roles & Responsibilities:</b> <br>
-            • Working on increase in website traffic through OFF
-            PAGE SEO techniques of link building.<br>
-            • Link building (OFF PAGE SEO)- Directory
-            submission, Social book marking, Info graphic
-            submission, Forum submission, Article posting, Blog
-            posting, Guest posting.<br>
-            • Create brand awareness through digital platforms
-            through SMM techniques.<br>
-            • Working knowledge of Google Analytics, Google
-            Search Console and Keyword Research tools.<br>
-            • Adequate knowledge of OFF PAGE SEO and SMM.<br>
-            • Working knowledge of excel sheet & word.
-            </p>
-            <p>
-            <br>   
-            <br>
-            <h3><b><i>2)Digital Marketing Internship
-                        (30 -May-2021 to 30- July-2021)</i></b></h3><br> <br>
-            ✓ <b>Company name:</b> RENTNAP<br>
-            ✓<b>Designation:</b> Digital Marketing Intern<br>
-            <br>
-            <b>Roles & Responsibilities:</b><br>
-            • Working on social media marketing (SMM) and
-            lead generation through Facebook ads manager
-            Create Facebook ads and campaign management.<br>
-            • Adequate knowledge of Facebook ads and reporting.
-            </p>
-            <br> <br>
-            <p>
-            <h3><b><i>3) Market Research Internship
-                        (11-Aug-2020 to 11-Sep-2020)</i></b></h3><br><br>
-            ✓ <b>Company name:</b> LumEvent <br>
-            ✓ <b>Designation</b>: Market Research Intern <br> <br>
-            <b>Roles & Responsibilities:</b><br>
-            • Working on market research and lead generation.<br>
-            • Working knowledge in market research and data management in excel sheet.
-            </p>
-            <br> <br>
-            <p>
-            <h3><b><i> 4) Digital Marketing & Advertising Internship
-                        (05-Dec-2019 to 20-Feb-2020)</i></b></h3><br> <br>
-            ✓ <b>Company name:</b> Digifuse <br>
-            ✓ <b>Designation</b>: Marketing and Business Development Intern <br><br>
-            <b>Roles & Responsibilities:</b><br>
-            • Generate business leads through digital marketing campaigns.<br>
-            • Working on marketing campaigns such as CPI, CPR, CPA.<br>
-            • Working experience on campaign analytics panel and reporting.<br>
-            • Working on promoting products and services, brand awareness activities and social media campaigns.<br>
-            • Working on increase in quality of marketing leads and conversion rates for the sales & marketing team.<br>
-            • Adequate knowledge in SMM and marketing campaigns.
-            </p>
-            <br> <br>
-            <p>
-            <h3><b><i>5) Marketing & Sales Internship
-                        (01-May-2019 to 01-July-2019)</i></b></h3><br> <br>
-            ✓ <b>Company name:</b> <br>
-            ✓ <b>Designation:</b> Marketing and Sales Intern<br><br>
-            <b>Roles & Responsibilities:</b> <br>
-            1. Lead generation by using telemarketing techniques.<br>
-            2. Create brand awareness through digital platforms.<br>
-            3. Adequate knowledge of market research and data collection.<br>
-            4. Working knowledge of excel sheet.
-            </p>
-        </div>
-        <br><br><br>
-        <!--Contact page-->
-        <h2 id ="Contact"><u><b>Contact</b></u></h2>
-        <br><br>
-        <div class="address">
-        <address>
-            KARTHIKEYAN P,<br>
-            karthipalani04@gmail.com, <br>
-            Ph No:+91-6382883764,<br>
-            4/48, perumal kovil street, E.Vellanur(po),<br>
-            Lalgudi(tk),<br>
-            Trichy-621 712.  
-        </address>
-       </div>
-       <br><br><br>
-       <!--socialmediaicons-->
-       <div class="socialmediaicons">
-            <a href="https://www.facebook.com/Iam.karthikeyanpalanisamy/" class="fa fa-facebook" target="_blank"></a><br>
-            <a href="https://twitter.com/imkarthikeyan_P" class="fa fa-twitter" target="_blank"></a><br>
-            <a href="https://www.linkedin.com/in/iamkarthikeyanpalanisamy/" class="fa fa-linkedin" target="_blank"></a><br>
-            <a href="https://www.instagram.com/karthipalani04/" class="fa fa-instagram" ></a>
-      </div>
-      <br>
-    </div>
-</div>
-</header>
- <!--footer page-->
-    <footer>
-       <br>
-        <p>Copyright &copy; 2022Karthikeyan Palanisamy. Designed by karthikeyanpalanisamy</p>
-        <button class="up"><a href="#top">Go to top</a></button>
-    </footer>
-    <div id="bottom"></div>
-</body>
-</html>
+*{
+margin: 0;
+padding: 0;
+}
+.wrapper{
+    width:960px;
+    margin:auto;
+}
+body{
+    background-color: aquamarine;
+}
+.nav-area{
+    float:right;
+    text-align:right;
+    list-style: none;
+    padding-top:15px;
+    padding-bottom:38px;
+    background-color: rgb(36, 35, 35);
+    width: 100%;
+}
+.name{
+    color:white;
+    float:left;
+    text-align:left;
+    margin-top:16px;
+    padding-left: 80px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight:bold;
+    font-size: 18px;
+}
+.nav-area li{
+    display: inline-block;
+    margin-right:35px;
+    padding-right:10px;
+}
+.nav-area li a{
+    color: white;
+    text-decoration: none;
+    padding-right:10px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size:15px;
+    text-transform:uppercase;
+}
+.nav-area li a:hover{
+    color:rgb(19, 233, 222);
+    background:grey;
+}
+.logo img {
+    width:175px;
+    float:center;
+    height:175px;
+}
+footer{
+    text-align:center;
+    margin-top:4650px;
+    /* position: fixed;  */
+    left: 0;
+    bottom: 0;
+    right:0;
+    right: 0;
+    width: 100%;
+    height:50px;
+    background-color: rgb(36, 35, 35);
+    color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-top: 25px;
+    font-family:'Times New Roman', Times, serif;
+    font-size:20px;
+    font-weight: lighter;
+}
+.welcome-text{
+    position:absolute;
+    width:600px;
+    height:300px;
+    margin:5% 25%;
+    text-align:justify;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size:20px;
+}
+ .welcome-text p{
+    text-align: justify;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight:lighter;
+    color:rgb(15, 15, 15) ;
+} 
+
+h1{
+  padding-top: 150px;
+  background: url("background image.png"); 
+  width: 100%;
+  font-size: 50px;
+  margin: auto;
+  color:rgb(19, 233, 222);
+}
+.button{
+    background: url("background image.png" ); 
+}
+
+h3{
+    margin:-30px;
+    background-color: rgb(36, 35, 35);
+    margin-right:1px;
+    padding:40px;
+    color: white;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+button{
+    width:150px;
+    height:40px;
+    border:2px solid white;
+    border-radius:5px ;
+    font-size: 20px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    list-style: none;
+    cursor: pointer;
+ }
+ .button a{
+    color:rgb(5, 5, 5);
+    text-decoration: none;
+    font-size:20px;
+    text-transform:uppercase;
+ }
+ h2{
+     text-align:center;
+
+ }
+ .logo{
+     text-align: center;
+ }
+
+.skills{
+    text-align:center;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.Internshipexperience{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.download{
+    text-align: center;
+    border-radius:5px ;
+}
+.download a{
+    color:rgb(5, 5, 5);
+    text-decoration: none;
+    font-size:15px;
+    text-transform:uppercase;
+}
+.btn{
+    border:2px solid black;
+    border-radius:5px ;
+    width:200px;
+}
+.resume{
+    display: inline-flex;
+    flex-direction: row;
+    column-gap:10px;
+}
+img{
+    text-align: center;
+}
+.address{
+    text-align: center;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.socialmediaicons{
+    display:flex;
+    flex-direction: row;
+    column-gap: 20px;  
+    text-indent: 50px;
+    cursor: pointer;
+}
+.up{
+     border:2px solid white;
+     background-color: rgb(36, 35, 35);
+}
+.up a {
+    text-decoration: none;
+    color: white;
+}
+
+.down{
+    border:2px solid white;
+    background-color: rgb(36, 35, 35);
+}
+.down a{
+    text-decoration: none;
+    color: white;
+}
