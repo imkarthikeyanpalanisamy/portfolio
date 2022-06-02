@@ -148,10 +148,8 @@
     img{
         text-align: center;
     }
-    address{
+    .address{
         text-align: center;
-        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-        font-style:italic;
     }
     .socialmediaicons{
         display:flex;
